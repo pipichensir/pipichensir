@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pipichensir
 - 👀 I’m interested in Edge Computing
 - 🌱 I’m currently learning Edge Intelligence
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on EdgeIntelligence
 - 📫 How to reach me 
 
 <!---
